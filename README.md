@@ -1,2 +1,2 @@
 # Crud-Spring-liveCoding-Dio
-Gerenciado de sala de reuniões
+Gerenciador de sala de reuniões
